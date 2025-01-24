@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - **Tools:** Git, Docker, VS Code, Postman
 
 ### 🏆 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=absyinbis&show_icons=true&theme=radical)
 
 ### 🌍 Connect with Me
 - 📧 Email: absy.bo32@gmail.com
